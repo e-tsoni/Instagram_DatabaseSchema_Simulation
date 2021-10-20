@@ -10,3 +10,5 @@ An attempt to simulate a part of the Instagram database, for educational purpose
 --  The queries, with the corresponding descriptions, are implemented from the folder QUERIES.
 
 A .jpg file is the schema of this sample database, created with https://dbdiagram.io/ .
+
+![Image of Schema Instagram database](https://raw.githubusercontent.com/e-tsoni/Instagram_DatabaseSchema_Simulation/main/database_schema.JPG)
